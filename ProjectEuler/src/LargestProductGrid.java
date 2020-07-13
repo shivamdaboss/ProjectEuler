@@ -16,7 +16,7 @@ public class LargestProductGrid {
 					}
 					
 				}catch(Exception e) {
-					//e.printStackTrace();
+
 				}
 			}
 		}
@@ -31,7 +31,7 @@ public class LargestProductGrid {
 					}
 					
 				}catch(Exception e) {
-					//e.printStackTrace();
+
 				}
 			}
 		}
@@ -53,7 +53,7 @@ public class LargestProductGrid {
 					}
 				}
 				catch(Exception e) {
-					//e.printStackTrace();
+					
 				}
 				curI++;
 				curJ++;
@@ -75,7 +75,7 @@ public class LargestProductGrid {
 					}
 				}
 				catch(Exception e) {
-					//e.printStackTrace();
+
 				}
 				curI--;
 				curJ--;
@@ -98,7 +98,7 @@ public class LargestProductGrid {
 					}
 				}
 				catch(Exception e) {
-					//e.printStackTrace();
+
 				}
 				curI--;
 				curJ++;
@@ -121,7 +121,7 @@ public class LargestProductGrid {
 					}
 				}
 				catch(Exception e) {
-					//e.printStackTrace();
+
 				}
 				curI++;
 				curJ--;
